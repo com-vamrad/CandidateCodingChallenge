@@ -55,7 +55,6 @@ class EventManager: ObservableObject {
             let pageToFetch = meta?.nextPage ?? 1
             if pageToFetch == lastFetchedPage {return}
             let req = API.EventRequest(page: pageToFetch, query: query)
-            lastFetchedPage = pageToFetch
             fetchEvents(req: req)
         }
     }
@@ -63,6 +62,7 @@ class EventManager: ObservableObject {
     
     
     private func fetchEvents(req: API.EventRequest) {
+        lastFetchedPage = req.page
         api
             .events(req: req)
             .receive(on: DispatchQueue.main)
