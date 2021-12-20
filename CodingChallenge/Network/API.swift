@@ -18,7 +18,7 @@ import Combine
 
 struct API {
     
-    struct EventRequest {
+    struct EventRequest: Equatable {
         var page: Int
         var query: String? = nil
     }

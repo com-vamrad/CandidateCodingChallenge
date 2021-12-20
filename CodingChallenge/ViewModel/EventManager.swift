@@ -23,7 +23,7 @@ class EventManager: ObservableObject {
 //        }
 //    }
     private let api = API()
-    private var lastFetchedPage = 0
+    private var prevRequest = API.EventRequest(page: 0, query: nil)
     @Published var allEvents: [Event] = []
     @Published var error: API.Error? = nil
     @Published var query: String = ""
@@ -52,9 +52,7 @@ class EventManager: ObservableObject {
     func fetchNextPage() {
         //Fetch only if there are pages left on the server
         if meta?.canLoad ?? true {
-            let pageToFetch = meta?.nextPage ?? 1
-            if pageToFetch == lastFetchedPage {return}
-            let req = API.EventRequest(page: pageToFetch, query: query)
+            let req = API.EventRequest(page: meta?.nextPage ?? 1, query: query)
             fetchEvents(req: req)
         }
     }
@@ -62,7 +60,8 @@ class EventManager: ObservableObject {
     
     
     private func fetchEvents(req: API.EventRequest) {
-        lastFetchedPage = req.page
+        if prevRequest == req {return}
+        prevRequest = req
         api
             .events(req: req)
             .receive(on: DispatchQueue.main)
