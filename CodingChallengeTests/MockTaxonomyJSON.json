@@ -1,0 +1,11 @@
+{
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }

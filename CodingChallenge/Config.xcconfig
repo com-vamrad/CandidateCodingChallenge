@@ -1,0 +1,19 @@
+//
+//  Config.xcconfig
+//  CodingChallenge
+//  Toolchain Swift version: 5.0
+//
+//  Created by Alex Kiselov on 12/18/21.
+//  Vamrad LLC
+//	www.vamrad.com
+//
+//  
+//
+//  
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//client_id from the SeatGeek Developers Page to authenticate yourself during calls.
+//https://seatgeek.com/account/develop
+API_KEY = MjUwMTIzNDV8MTYzOTc1MTMwNC4yNjM5NTQ2

@@ -1,0 +1,3288 @@
+{
+    "events": [
+        {
+            "type": "concert",
+            "id": 5422906,
+            "datetime_utc": "2022-07-04T18:00:00",
+            "venue": {
+                "state": null,
+                "name_v2": "O2 Arena",
+                "postal_code": "190 00",
+                "name": "O2 Arena",
+                "links": [],
+                "timezone": "Europe/Prague",
+                "url": "https://seatgeek.com/venues/o2-arena/tickets",
+                "score": 0,
+                "location": {
+                    "lat": 50.1047,
+                    "lon": 14.4938
+                },
+                "address": "Ceskomoravska cp. 2345/17",
+                "country": "Czech Republic",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 1,
+                "city": "Prague",
+                "slug": "o2-arena",
+                "extended_address": "Prague, Czech Republic",
+                "id": 8760,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 0,
+                "capacity": 18000,
+                "last_full_index_at": "0001-01-01T00:00:00Z",
+                "display_location": "Prague, Czech Republic"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Aerosmith",
+                    "image": "https://seatgeek.com/images/performers-landscape/aerosmith-7f87bc/144/huge.jpg",
+                    "id": 144,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/aerosmith-7f87bc/144/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 11
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-18T20:22:21Z"
+                        }
+                    ],
+                    "image_attribution": "Kevin Mazur / WireImage / Getty Images",
+                    "url": "https://seatgeek.com/aerosmith-tickets",
+                    "score": 0.25,
+                    "slug": "aerosmith",
+                    "home_venue_id": null,
+                    "short_name": "Aerosmith",
+                    "num_upcoming_events": 11,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-55186a/555/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-1bf631/555/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-8d3cec/555/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-22c331/555/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-1d63b6/555/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-f0d8df/555/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-4797cb/555/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-c9a3ed/555/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-aeb18e/555/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-3b5355/555/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-9c63f0/555/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-897119/555/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-ecf4c7/555/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-51bbeb/555/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-5fb144/555/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-549df9/555/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-4ada20/555/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-f65973/555/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-393dec/555/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-941fc8/555/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/david-byrne-s-american-utopia-51bbeb/555/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "last_full_index_at": "2021-12-18T00:22:19Z"
+                        },
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/adele-72b1fe/141/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/adele-f88c23/141/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/adele-65f362/141/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/adele-04f89f/141/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/adele-3ee0eb/141/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/adele-7256bc/141/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/adele-d3cddd/141/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/adele-7149d5/141/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/adele-1a92e0/141/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/adele-271cad/141/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/adele-e8c506/141/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/adele-47b09c/141/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/adele-fcc932/141/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/adele-644fd6/141/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/adele-8388e6/141/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/adele-5642f9/141/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/adele-9b75ce/141/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/adele-19e592/141/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/adele-49d390/141/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/adele-2506ae/141/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/adele-644fd6/141/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "last_full_index_at": "2021-12-13T12:22:26Z"
+                        },
+                        {
+                            "id": 473,
+                            "name": "Hard Rock",
+                            "slug": "hard-rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-174abd/247632/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-51c8bc/247632/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-edc4a4/247632/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-091820/247632/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-b1bdd0/247632/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-b75df8/247632/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-c9497c/247632/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-60327e/247632/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-c34195/247632/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-7167a4/247632/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-4045dc/247632/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-f29c8b/247632/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-07b75d/247632/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-f2e248/247632/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-621967/247632/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-e757bc/247632/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-6cc50e/247632/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-180f30/247632/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-62b13f/247632/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-e4b024/247632/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/rage-against-the-machine-f2e248/247632/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "last_full_index_at": "2021-12-19T00:22:42Z"
+                        },
+                        {
+                            "id": 472,
+                            "name": "Classic Rock",
+                            "slug": "classic-rock",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/elton-john-d4cc19/681/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/elton-john-b725ad/681/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/elton-john-93a69e/681/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/elton-john-eb0e8a/681/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/elton-john-f514ce/681/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/elton-john-3d246d/681/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/elton-john-1a3f51/681/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/elton-john-76b41e/681/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/elton-john-43bfbc/681/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/elton-john-1047fe/681/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/elton-john-e3fa92/681/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/elton-john-25726b/681/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/elton-john-7fbfbc/681/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/elton-john-e34113/681/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/elton-john-06779d/681/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/elton-john-86ec47/681/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/elton-john-3db576/681/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/elton-john-56d460/681/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/elton-john-bf381e/681/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/elton-john-3ad6c5/681/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/elton-john-e34113/681/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "last_full_index_at": "2021-12-10T12:22:07Z"
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-19T16:05:23Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-04T20:00:00",
+            "time_tbd": false,
+            "short_title": "Aerosmith",
+            "visible_until_utc": "2022-07-04T22:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-18T20:22:21Z"
+                }
+            ],
+            "url": "https://seatgeek.com/aerosmith-tickets/prague-czech-republic-o2-arena-2022-07-04-8-pm/concert/5422906",
+            "score": 0,
+            "announce_date": "2021-06-14T00:00:00",
+            "created_at": "2021-06-14T22:58:27",
+            "date_tbd": false,
+            "title": "Aerosmith",
+            "popularity": 0,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T18:12:14Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5429748,
+            "datetime_utc": "2022-07-20T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-19T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-20T05:00:00",
+            "stats": {
+                "listing_count": 5,
+                "average_price": 193,
+                "lowest_price_good_deals": 162,
+                "lowest_price": 158,
+                "highest_price": 265,
+                "visible_listing_count": 5,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 164,
+                "lowest_sg_base_price": 115,
+                "lowest_sg_base_price_good_deals": 119
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-19-8-pm/5429748",
+            "score": 0.312,
+            "announce_date": "2021-06-22T00:00:00",
+            "created_at": "2021-06-22T16:02:03",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.332,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:32Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526336,
+            "datetime_utc": "2022-07-21T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-20T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-21T05:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-20-8-pm/5526336",
+            "score": 0.3,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:36",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.321,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526335,
+            "datetime_utc": "2022-07-22T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-21T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-22T05:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-21-8-pm/5526335",
+            "score": 0.311,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:35",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.33,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5425621,
+            "datetime_utc": "2022-07-23T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-22T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-23T05:00:00",
+            "stats": {
+                "listing_count": 2,
+                "average_price": 149,
+                "lowest_price_good_deals": null,
+                "lowest_price": 123,
+                "highest_price": 161,
+                "visible_listing_count": 2,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 142,
+                "lowest_sg_base_price": 88,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-22-8-pm/5425621",
+            "score": 0.348,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-06-16T16:02:32",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.361,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:25Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526366,
+            "datetime_utc": "2022-07-23T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "CIBC Theatre",
+                "postal_code": "60603",
+                "name": "CIBC Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/cibc-theatre/tickets",
+                "score": 0.26,
+                "location": {
+                    "lat": 41.8809,
+                    "lon": -87.6285
+                },
+                "address": "18 West Monroe",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 173,
+                "city": "Chicago",
+                "slug": "cibc-theatre",
+                "extended_address": "Chicago, IL 60603",
+                "id": 225,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE_TM",
+                    "created_at": "2018-09-15T18:27:49Z",
+                    "employee_only": false
+                },
+                "metro_code": 602,
+                "capacity": 1800,
+                "last_full_index_at": "2021-12-19T04:22:53Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-22T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-23T05:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-22-8-pm/5526366",
+            "score": 0.341,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:42",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.356,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE_TM",
+                "created_at": "2018-09-15T18:27:49Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:25:43Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526364,
+            "datetime_utc": "2022-07-23T19:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "CIBC Theatre",
+                "postal_code": "60603",
+                "name": "CIBC Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/cibc-theatre/tickets",
+                "score": 0.26,
+                "location": {
+                    "lat": 41.8809,
+                    "lon": -87.6285
+                },
+                "address": "18 West Monroe",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 173,
+                "city": "Chicago",
+                "slug": "cibc-theatre",
+                "extended_address": "Chicago, IL 60603",
+                "id": 225,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE_TM",
+                    "created_at": "2018-09-15T18:27:49Z",
+                    "employee_only": false
+                },
+                "metro_code": 602,
+                "capacity": 1800,
+                "last_full_index_at": "2021-12-19T04:22:53Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-23T14:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-23T23:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-23-2-pm/5526364",
+            "score": 0.343,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:41",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.358,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE_TM",
+                "created_at": "2018-09-15T18:27:49Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:25:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5425622,
+            "datetime_utc": "2022-07-23T19:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-23T14:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-23T23:00:00",
+            "stats": {
+                "listing_count": 1,
+                "average_price": 175,
+                "lowest_price_good_deals": null,
+                "lowest_price": 173,
+                "highest_price": 177,
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 175,
+                "lowest_sg_base_price": 126,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-23-2-pm/5425622",
+            "score": 0.355,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-06-16T16:02:32",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.366,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:26Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5434196,
+            "datetime_utc": "2022-07-24T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-23T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-24T05:00:00",
+            "stats": {
+                "listing_count": 2,
+                "average_price": 199,
+                "lowest_price_good_deals": 192,
+                "lowest_price": 192,
+                "highest_price": 207,
+                "visible_listing_count": 2,
+                "dq_bucket_counts": [
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 195,
+                "lowest_sg_base_price": 141,
+                "lowest_sg_base_price_good_deals": 141
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-23-8-pm/5434196",
+            "score": 0.319,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-06-30T08:55:55",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.337,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:39Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526365,
+            "datetime_utc": "2022-07-24T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "CIBC Theatre",
+                "postal_code": "60603",
+                "name": "CIBC Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/cibc-theatre/tickets",
+                "score": 0.26,
+                "location": {
+                    "lat": 41.8809,
+                    "lon": -87.6285
+                },
+                "address": "18 West Monroe",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 173,
+                "city": "Chicago",
+                "slug": "cibc-theatre",
+                "extended_address": "Chicago, IL 60603",
+                "id": 225,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE_TM",
+                    "created_at": "2018-09-15T18:27:49Z",
+                    "employee_only": false
+                },
+                "metro_code": 602,
+                "capacity": 1800,
+                "last_full_index_at": "2021-12-19T04:22:53Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-23T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-24T05:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-23-8-pm/5526365",
+            "score": 0.341,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:42",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.356,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE_TM",
+                "created_at": "2018-09-15T18:27:49Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:25:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5425623,
+            "datetime_utc": "2022-07-24T19:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-24T14:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-24T23:00:00",
+            "stats": {
+                "listing_count": 1,
+                "average_price": 132,
+                "lowest_price_good_deals": null,
+                "lowest_price": 131,
+                "highest_price": 134,
+                "visible_listing_count": 1,
+                "dq_bucket_counts": null,
+                "median_price": 132,
+                "lowest_sg_base_price": 95,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-24-2-pm/5425623",
+            "score": 0.31,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-06-16T16:02:32",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.33,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:25Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526367,
+            "datetime_utc": "2022-07-24T19:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "CIBC Theatre",
+                "postal_code": "60603",
+                "name": "CIBC Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/cibc-theatre/tickets",
+                "score": 0.26,
+                "location": {
+                    "lat": 41.8809,
+                    "lon": -87.6285
+                },
+                "address": "18 West Monroe",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 173,
+                "city": "Chicago",
+                "slug": "cibc-theatre",
+                "extended_address": "Chicago, IL 60603",
+                "id": 225,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE_TM",
+                    "created_at": "2018-09-15T18:27:49Z",
+                    "employee_only": false
+                },
+                "metro_code": 602,
+                "capacity": 1800,
+                "last_full_index_at": "2021-12-19T04:22:53Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-24T14:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-24T23:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-24-2-pm/5526367",
+            "score": 0.335,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:42",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.352,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE_TM",
+                "created_at": "2018-09-15T18:27:49Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:25:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526355,
+            "datetime_utc": "2022-07-25T00:30:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-24T19:30:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-25T04:30:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-24-7-30-pm/5526355",
+            "score": 0.303,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-10-15T22:37:40",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.324,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:53Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526368,
+            "datetime_utc": "2022-07-25T00:30:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "CIBC Theatre",
+                "postal_code": "60603",
+                "name": "CIBC Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/cibc-theatre/tickets",
+                "score": 0.26,
+                "location": {
+                    "lat": 41.8809,
+                    "lon": -87.6285
+                },
+                "address": "18 West Monroe",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 173,
+                "city": "Chicago",
+                "slug": "cibc-theatre",
+                "extended_address": "Chicago, IL 60603",
+                "id": 225,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE_TM",
+                    "created_at": "2018-09-15T18:27:49Z",
+                    "employee_only": false
+                },
+                "metro_code": 602,
+                "capacity": 1800,
+                "last_full_index_at": "2021-12-19T04:22:53Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-24T19:30:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-25T04:30:00",
+            "stats": {
+                "listing_count": 1,
+                "average_price": 672,
+                "lowest_price_good_deals": null,
+                "lowest_price": 663,
+                "highest_price": 680,
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 672,
+                "lowest_sg_base_price": 502,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-24-7-30-pm/5526368",
+            "score": 0.331,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:42",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.347,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE_TM",
+                "created_at": "2018-09-15T18:27:49Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:25:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526338,
+            "datetime_utc": "2022-07-27T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-26T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-27T05:00:00",
+            "stats": {
+                "listing_count": 2,
+                "average_price": 215,
+                "lowest_price_good_deals": 204,
+                "lowest_price": 204,
+                "highest_price": 227,
+                "visible_listing_count": 2,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 207,
+                "lowest_sg_base_price": 150,
+                "lowest_sg_base_price_good_deals": 150
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-26-8-pm/5526338",
+            "score": 0.312,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:36",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.331,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:52Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526337,
+            "datetime_utc": "2022-07-28T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-27T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-28T05:00:00",
+            "stats": {
+                "listing_count": 3,
+                "average_price": 231,
+                "lowest_price_good_deals": 209,
+                "lowest_price": 209,
+                "highest_price": 256,
+                "visible_listing_count": 3,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    2,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 227,
+                "lowest_sg_base_price": 155,
+                "lowest_sg_base_price_good_deals": 155
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-27-8-pm/5526337",
+            "score": 0.3,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:36",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.321,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526356,
+            "datetime_utc": "2022-07-29T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-28T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-29T05:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-28-8-pm/5526356",
+            "score": 0.311,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:40",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.33,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:53Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526339,
+            "datetime_utc": "2022-07-30T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-29T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-30T05:00:00",
+            "stats": {
+                "listing_count": 6,
+                "average_price": 264,
+                "lowest_price_good_deals": 201,
+                "lowest_price": 201,
+                "highest_price": 345,
+                "visible_listing_count": 5,
+                "dq_bucket_counts": [
+                    1,
+                    1,
+                    2,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "median_price": 243,
+                "lowest_sg_base_price": 147,
+                "lowest_sg_base_price_good_deals": 147
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-29-8-pm/5526339",
+            "score": 0.374,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:37",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.382,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:51Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5425620,
+            "datetime_utc": "2022-07-30T19:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-30T14:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-30T23:00:00",
+            "stats": {
+                "listing_count": 4,
+                "average_price": 219,
+                "lowest_price_good_deals": 125,
+                "lowest_price": 122,
+                "highest_price": 385,
+                "visible_listing_count": 4,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 157,
+                "lowest_sg_base_price": 87,
+                "lowest_sg_base_price_good_deals": 90
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-30-2-pm/5425620",
+            "score": 0.315,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-06-16T16:02:32",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.334,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:25Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526359,
+            "datetime_utc": "2022-07-31T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-30T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-31T05:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-30-8-pm/5526359",
+            "score": 0.319,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-10-15T22:37:41",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.337,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:53Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5425618,
+            "datetime_utc": "2022-07-31T19:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-31T14:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-07-31T23:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-31-2-pm/5425618",
+            "score": 0.31,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-06-16T16:02:32",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.33,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:26Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5425619,
+            "datetime_utc": "2022-08-01T00:30:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-07-31T19:30:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-08-01T04:30:00",
+            "stats": {
+                "listing_count": 1,
+                "average_price": 192,
+                "lowest_price_good_deals": null,
+                "lowest_price": 189,
+                "highest_price": 194,
+                "visible_listing_count": 1,
+                "dq_bucket_counts": null,
+                "median_price": 192,
+                "lowest_sg_base_price": 139,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-07-31-7-30-pm/5425619",
+            "score": 0.303,
+            "announce_date": "2021-06-16T00:00:00",
+            "created_at": "2021-06-16T16:02:32",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.324,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:44:20Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526357,
+            "datetime_utc": "2022-08-03T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-08-02T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-08-03T05:00:00",
+            "stats": {
+                "listing_count": 3,
+                "average_price": 231,
+                "lowest_price_good_deals": 209,
+                "lowest_price": 209,
+                "highest_price": 256,
+                "visible_listing_count": 3,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    2,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 227,
+                "lowest_sg_base_price": 155,
+                "lowest_sg_base_price_good_deals": 155
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-08-02-8-pm/5526357",
+            "score": 0.312,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:40",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.33,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:53Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5598573,
+            "datetime_utc": "2022-08-03T19:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-08-03T14:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-08-03T23:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-08-03-2-pm/5598573",
+            "score": 0,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-12-12T16:03:02",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T18:01:40Z",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5526340,
+            "datetime_utc": "2022-08-04T01:00:00",
+            "venue": {
+                "state": "IL",
+                "name_v2": "James M. Nederlander Theatre",
+                "postal_code": "60601",
+                "name": "James M. Nederlander Theatre",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/james-m-nederlander-theatre/tickets",
+                "score": 0.2,
+                "location": {
+                    "lat": 41.8847,
+                    "lon": -87.6287
+                },
+                "address": "24 W Randolph St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 186,
+                "city": "Chicago",
+                "slug": "james-m-nederlander-theatre",
+                "extended_address": "Chicago, IL 60601",
+                "id": 2936,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 602,
+                "capacity": 2253,
+                "last_full_index_at": "2021-12-12T16:06:51Z",
+                "display_location": "Chicago, IL"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "The Devil Wears Prada Chicago",
+                    "image": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg",
+                    "id": 779973,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/the-devil-wears-prada-chicago-fcaa1f/779973/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 46
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "SG generic",
+                    "url": "https://seatgeek.com/the-devil-wears-prada-chicago-tickets",
+                    "score": 0.09,
+                    "slug": "the-devil-wears-prada-chicago",
+                    "home_venue_id": null,
+                    "short_name": "The Devil Wears Prada Chicago",
+                    "num_upcoming_events": 46,
+                    "colors": null,
+                    "image_license": "SG generic",
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T03:52:45Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2022-08-03T20:00:00",
+            "time_tbd": false,
+            "short_title": "The Devil Wears Prada Chicago - Chicago",
+            "visible_until_utc": "2022-08-04T05:00:00",
+            "stats": {
+                "listing_count": 3,
+                "average_price": 234,
+                "lowest_price_good_deals": 209,
+                "lowest_price": 209,
+                "highest_price": 262,
+                "visible_listing_count": 3,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    2,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 230,
+                "lowest_sg_base_price": 155,
+                "lowest_sg_base_price_good_deals": 155
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-19T08:22:12Z"
+                }
+            ],
+            "url": "https://seatgeek.com/the-devil-wears-prada-chicago-chicago-tickets/theater/2022-08-03-8-pm/5526340",
+            "score": 0.3,
+            "announce_date": "2021-10-15T00:00:00",
+            "created_at": "2021-10-15T22:37:37",
+            "date_tbd": false,
+            "title": "The Devil Wears Prada Chicago - Chicago",
+            "popularity": 0.32,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-19T17:51:52Z",
+            "themes": [],
+            "domain_information": []
+        }
+    ],
+    "meta": {
+        "total": 130,
+        "took": 8,
+        "page": 4,
+        "per_page": 25,
+        "geolocation": null
+    }
+}

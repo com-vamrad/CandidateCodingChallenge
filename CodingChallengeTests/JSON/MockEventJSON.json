@@ -1,0 +1,192 @@
+
+{
+            "type": "concert",
+            "id": 5444278,
+            "datetime_utc": "2021-12-18T02:00:00",
+            "venue": {
+                "state": "CO",
+                "name_v2": "Washington's",
+                "postal_code": "80524",
+                "name": "Washington's",
+                "links": [],
+                "timezone": "America/Denver",
+                "url": "https://seatgeek.com/venues/washington-s/tickets",
+                "score": 0.34,
+                "location": {
+                    "lat": 40.5895,
+                    "lon": -105.078
+                },
+                "address": "132 Laporte Ave",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 12,
+                "city": "Fort Collins",
+                "slug": "washington-s",
+                "extended_address": "Fort Collins, CO 80524",
+                "id": 67444,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 751,
+                "capacity": 0,
+                "last_full_index_at": "2021-12-11T16:01:35Z",
+                "display_location": "Fort Collins, CO"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "John Craigie",
+                    "image": "https://seatgeek.com/images/performers-landscape/john-craigie-a5a660/97580/huge.jpg",
+                    "id": 97580,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/john-craigie-a5a660/97580/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 5
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "last_full_index_at": "2021-12-16T20:22:09Z"
+                        }
+                    ],
+                    "image_attribution": "https://www.flickr.com/photos/villageunderground/36296258372/in/photolist-XinP59-ah2DFq-cCR6Q3-5LfBz5-4MQA9v-jwEM3u-he8k9g-4MVgJu-npg33s-2wyyax-a3Dg2g-3dcpi2-fRZZVc-egfAbC-pnDcuW-ZE4RYw-gAivat-5FXCNV-4MR7nT-fP44Km-hPUHG8-717gPz-a2n8sH-7GjrBP-c4B8zf-3dgREL-8phstY-cxJbim-exQwJV-d66KJL-K7hTme-Vg9WY7-SFpkk3-K7hVET-V5T6yR-Xnnmf2-Gw2gwJ-EMY5WP-4MQcZ4-ksz5n-hPVzcD-bAT76q-4MQvVX-R4qMap-fNLwJi-7N5pdF-4MVfV7-5YdjHK-i7Cvsj-a3cBgT",
+                    "url": "https://seatgeek.com/john-craigie-tickets",
+                    "score": 0.11,
+                    "slug": "john-craigie",
+                    "home_venue_id": null,
+                    "short_name": "John Craigie",
+                    "num_upcoming_events": 5,
+                    "colors": null,
+                    "image_license": "https://creativecommons.org/licenses/by-nd/2.0/",
+                    "genres": [
+                        {
+                            "id": 450,
+                            "name": "Country",
+                            "slug": "country",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/morgan-wallen-decb85/562860/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/morgan-wallen-80de87/562860/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/morgan-wallen-da0388/562860/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/morgan-wallen-adb774/562860/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/morgan-wallen-cf051d/562860/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/morgan-wallen-28e9b9/562860/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/morgan-wallen-88b018/562860/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/morgan-wallen-af2351/562860/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/morgan-wallen-ac9524/562860/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/morgan-wallen-6a803e/562860/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/morgan-wallen-4530b8/562860/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/morgan-wallen-91e3bb/562860/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/morgan-wallen-a48ecf/562860/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/morgan-wallen-00f101/562860/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/morgan-wallen-3c98a8/562860/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/morgan-wallen-7af8e8/562860/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/morgan-wallen-b369a5/562860/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/morgan-wallen-fe1ca7/562860/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/morgan-wallen-31eedd/562860/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/morgan-wallen-0766a2/562860/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/morgan-wallen-00f101/562860/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "last_full_index_at": "2021-11-16T12:22:15Z"
+                        },
+                        {
+                            "id": 467,
+                            "name": "Folk",
+                            "slug": "folk",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-99f3eb/1768/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-3d20a2/1768/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-ba913c/1768/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-1aaf69/1768/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-2e102c/1768/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-25a6e0/1768/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-298284/1768/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-6eed71/1768/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-52c298/1768/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-5ef38d/1768/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-666741/1768/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-63e6eb/1768/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-f90223/1768/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-2c7d3f/1768/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-03591b/1768/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-3bb6ef/1768/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-be6d5c/1768/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-ea261b/1768/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-b6f8e6/1768/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-195438/1768/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/the-avett-brothers-2c7d3f/1768/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "last_full_index_at": "2021-12-17T00:22:08Z"
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "last_full_index_at": "2021-12-17T12:29:01Z"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2021-12-17T19:00:00",
+            "time_tbd": false,
+            "short_title": "John Craigie",
+            "visible_until_utc": "2021-12-18T06:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 0,
+                    "last_full_index_at": "2021-12-16T20:22:09Z"
+                }
+            ],
+            "url": "https://seatgeek.com/john-craigie-tickets/fort-collins-colorado-washington-s-2021-12-17-7-pm/concert/5444278",
+            "score": 0,
+            "announce_date": "2021-07-16T00:00:00",
+            "created_at": "2021-07-16T16:00:42",
+            "date_tbd": false,
+            "title": "John Craigie",
+            "popularity": 0,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "last_full_index_at": "2021-12-17T14:37:51Z",
+            "general_admission": true,
+            "themes": [],
+            "domain_information": []
+        }

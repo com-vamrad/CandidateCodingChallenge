@@ -1,0 +1,28 @@
+{
+                "state": "CO",
+                "name_v2": "Washington's",
+                "postal_code": "80524",
+                "name": "Washington's",
+                "links": [],
+                "timezone": "America/Denver",
+                "url": "https://seatgeek.com/venues/washington-s/tickets",
+                "score": 0.34,
+                "location": {
+                    "lat": 40.5895,
+                    "lon": -105.078
+                },
+                "address": "132 Laporte Ave",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 12,
+                "city": "Fort Collins",
+                "slug": "washington-s",
+                "extended_address": "Fort Collins, CO 80524",
+                "id": 67444,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 751,
+                "capacity": 0,
+                "last_full_index_at": "2021-12-11T16:01:35Z",
+                "display_location": "Fort Collins, CO"
+}
