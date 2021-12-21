@@ -54,9 +54,9 @@ class TestAPI: XCTestCase {
         let api = API()
         var err: API.Error?
         var bulkResponse: BulkResponse?
-        let eventReq = API.EventRequest(page: page, query: query)
+        let eventReq = API.EventRequest(page: page, query: query, endPoint: API.EndPoint.events)
         api
-            .events(req: eventReq)
+            .makeRequest(request: eventReq, type: BulkResponse.self, requiresAuth: true)
             .sink(receiveCompletion: {completion in
                 if case .failure(let error) = completion {
                     err = error
@@ -90,9 +90,10 @@ class TestAPI: XCTestCase {
         let api = API()
         var err: API.Error?
         var bulkResponse: BulkResponse?
-        let eventReq = API.EventRequest(page: page, query: query)
+            let eventReq = API.EventRequest(page: page, query: query, endPoint: API.EndPoint.events)
         api
-            .events(req: eventReq)
+           // .events(req: eventReq)
+            .makeRequest(request: eventReq, type: BulkResponse.self, requiresAuth: true)
             .sink(receiveCompletion: {completion in
                 if case .failure(let error) = completion {
                     err = error

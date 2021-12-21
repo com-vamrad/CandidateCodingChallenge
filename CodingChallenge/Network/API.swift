@@ -21,6 +21,16 @@ struct API {
     struct EventRequest: Equatable {
         var page: Int
         var query: String? = nil
+        var endPoint: EndPoint = API.EndPoint.events
+        
+        init() {
+            self.page = 0
+        }
+        init(page: Int, query: String?, endPoint: API.EndPoint) {
+            self.page = page
+            self.query = query
+            self.endPoint = endPoint
+        }
     }
     
     enum Error: LocalizedError, Identifiable {
@@ -53,7 +63,7 @@ struct API {
         decoder.dateDecodingStrategy = .formatted(dateFormatter)
     }
     
-    private enum EndPoint {
+    enum EndPoint {
         static let baseURL = URL(string: "https://api.seatgeek.com/2/")!
         
         case events
@@ -66,24 +76,29 @@ struct API {
         }
     }
     
-    func events(req: EventRequest) -> AnyPublisher<BulkResponse, Error> {
-        guard let url = EndPoint.events.url.authorize() else {
-            return Fail(error: Error.invalidApiKey).eraseToAnyPublisher()
+    
+    public func makeRequest<T: Codable>(request: EventRequest, type: T.Type, requiresAuth: Bool? = false) -> AnyPublisher<T, Error> {
+        var url = request.endPoint.url
+        if let needsAuth = requiresAuth, needsAuth == true  {
+            guard let urlA = request.endPoint.url.authorize() else {
+                return Fail(error: Error.invalidApiKey).eraseToAnyPublisher()
+            }
+            url = urlA
         }
-        let qItem1 = (name:"page",value:String(describing:req.page))
+        let qItem1 = (name:"page",value:String(describing:request.page))
         let qItem2 = (name:"per_page",value:String(describing:maxEventsPerPage))
         var qItems = [qItem1, qItem2]
-        if let q = req.query, !q.isEmpty {
+        if let q = request.query, !q.isEmpty {
             qItems.append((name:"q", value:q))
         }
         return URLSession.shared
             .dataTaskPublisher(for: url.appendingQueryItems(qItems))
             .map(\.data)
-            .decode(type: BulkResponse.self, decoder: decoder)
+            .decode(type: type.self, decoder: decoder)
             .mapError{error -> API.Error in
                 switch error {
                 case is URLError:
-                    return Error.addressUnreachable(EndPoint.events.url)
+                    return Error.addressUnreachable(request.endPoint.url)
                 default:
                     return Error.invalidResponse
                 }

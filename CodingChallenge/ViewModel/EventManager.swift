@@ -17,13 +17,13 @@ import Combine
 class EventManager: ObservableObject {
     private var subscriptions = Set<AnyCancellable>()
     private var meta: Meta?
-//    {
-//        didSet {
-//            print("Meta page:\(String(describing: meta?.page)), can:\(meta?.canLoad), total:\(meta?.total), pages:\(meta?.totalPages)")
-//        }
-//    }
+    //    {
+    //        didSet {
+    //            print("Meta page:\(String(describing: meta?.page)), can:\(meta?.canLoad), total:\(meta?.total), pages:\(meta?.totalPages)")
+    //        }
+    //    }
     private let api = API()
-    private var prevRequest = API.EventRequest(page: 0, query: nil)
+    private var prevRequest = API.EventRequest()
     @Published var allEvents: [Event] = []
     @Published var error: API.Error? = nil
     @Published var query: String = ""
@@ -42,7 +42,7 @@ class EventManager: ObservableObject {
             .debounce(for: .seconds(0.5), scheduler: RunLoop.main)
             .sink{query in
                 //Every new search query starts from page 1
-                self.fetchEvents(req: API.EventRequest(page: 1, query: self.query))
+                self.fetchEvents(req: API.EventRequest(page: 1, query: self.query,  endPoint: API.EndPoint.events))
             }.store(in: &subscriptions)
         
     }
@@ -52,7 +52,7 @@ class EventManager: ObservableObject {
     func fetchNextPage() {
         //Fetch only if there are pages left on the server
         if meta?.canLoad ?? true {
-            let req = API.EventRequest(page: meta?.nextPage ?? 1, query: query)
+            let req = API.EventRequest(page: meta?.nextPage ?? 1, query: query, endPoint: prevRequest.endPoint)
             fetchEvents(req: req)
         }
     }
@@ -63,7 +63,7 @@ class EventManager: ObservableObject {
         if prevRequest == req {return}
         prevRequest = req
         api
-            .events(req: req)
+            .makeRequest(request: req, type: BulkResponse.self, requiresAuth: true)
             .receive(on: DispatchQueue.main)
             .sink(receiveCompletion: { completion in
                 if case .failure(let error) = completion {
