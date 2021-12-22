@@ -31,7 +31,7 @@ extension Venue {
         if let city = self.city {
             return "\(city)"
         }
-        if let state = self.city {
+        if let state = self.state {
             return "\(state)"
         }
         return " "
